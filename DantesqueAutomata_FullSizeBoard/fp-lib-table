@@ -1,3 +1,5 @@
 (fp_lib_table
   (lib (name "Audio_Module")(type "KiCad")(uri "D:/Projekte/DantesqueAutomata/DantesqueAutomata-kicad/footprints/Audio_Module.pretty")(options "")(descr ""))
+  (lib (name "footprints")(type "KiCad")(uri "D:/Projekte/DantesqueAutomata/DantesqueAutomata-kicad/footprints.pretty")(options "")(descr ""))
+  (lib (name "Connector_Eurorack")(type "KiCad")(uri "D:/Projekte/DantesqueAutomata/DantesqueAutomata-kicad/footprints/Connector_Eurorack.pretty")(options "")(descr ""))
 )
